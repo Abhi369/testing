@@ -3,7 +3,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 <meta name="format-detection" content="telephone=no">
-<title>Brooks and Co</title>
+<title>Brooks and Co ak</title>
 
 <!-- SET: FAVICON -->
 <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
